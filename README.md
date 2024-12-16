@@ -36,13 +36,13 @@ The data preparation phase involved several key steps to ensure reliability and 
 
 # Algorithms
 
-Linear Regression
+- Linear Regression
 
-XGBoost
+- XGBoost
 
-Random Forest Classifier
+- Random Forest Classifier
 
-Recurrent Neural Network
+- Recurrent Neural Network
 
 # Future Work
 
